@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"enum":["Priority"]};
+window.SIDEBAR_ITEMS = { "enum": ["Priority"] };

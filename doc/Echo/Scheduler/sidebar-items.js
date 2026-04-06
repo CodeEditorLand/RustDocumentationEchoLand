@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"mod":["Scheduler","SchedulerBuilder","Worker"]};
+window.SIDEBAR_ITEMS = { "mod": ["Scheduler", "SchedulerBuilder", "Worker"] };

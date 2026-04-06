@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"mod":["StealingQueue"]};
+window.SIDEBAR_ITEMS = { "mod": ["StealingQueue"] };

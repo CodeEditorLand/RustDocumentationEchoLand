@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"struct":["Task"],"type":["Operation"]};
+window.SIDEBAR_ITEMS = { "struct": ["Task"], "type": ["Operation"] };

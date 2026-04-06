@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"mod":["Queue","Scheduler","Task"]};
+window.SIDEBAR_ITEMS = { "mod": ["Queue", "Scheduler", "Task"] };

@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"mod":["Priority","Task"]};
+window.SIDEBAR_ITEMS = { "mod": ["Priority", "Task"] };
