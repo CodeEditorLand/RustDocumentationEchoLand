@@ -1,4 +1,0 @@
-window.SIDEBAR_ITEMS = {
-	"enum": ["Concurrency"],
-	"struct": ["SchedulerBuilder"],
-};
